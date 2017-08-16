@@ -10,6 +10,7 @@ inicio
  Escreva ("Digite um número")
  Leia (N)
  C <- N
+ // F = fatorial começa com 1 pois todos numero x 0 é ele mesmo.
  F <- 1
 
  Repita
